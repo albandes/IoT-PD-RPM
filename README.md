@@ -7,10 +7,14 @@ This repository aims to centralize and organize information about the developed 
 
 The ESP32-CAM is a microcontroller module that combines Wi-Fi and Bluetooth connectivity with an integrated camera, widely used in Internet of Things (IoT) and computer vision projects. It is based on the ESP32 chip, which has sufficient processing power to run simple image algorithms, such as facial recognition and object detection, and allows image transmission over a network. Compact and low-cost, the ESP32-CAM is a popular choice for applications requiring real-time image capture and processing, such as remote monitoring, security, and automation.
 
-- Datasset esp32-cam/assets/ESP32-CAM_Product_Specification.pdf
 - [Product Specification](https://github.com/albandes/IoT-PD-RPM/blob/main/esp32-cam/assets/ESP32-CAM_Product_Specification.pdf)
 - [IPUS IPS6404 datasheet](esp32-cam/assets/IPUS_IPS6404_Datasheet.pdf): external memory
 - [OV2640 datasheet](esp32-cam/assets/OV2640_Datasheet.pdf): included camera
   - [OV2640 FSL package](esp32-cam/assets/OV2640FSL_Datasheet.pdf)
 - [Pins guide](esp32-cam/assets/esp32-cam-pins.jpg)
 - [Wiring with usb ttl](esp32-cam/assets/Wiring-with-usb-ttl.png)
+
+## Software
+
+- Class used to record changes (Insert, Update and Delete) in the tables of a Mysql database in JSON format. Based on these data it is possible to audit the tables of a mysql database. 
+    - [GitHub Repository] (https://github.com/albandes/audit-mysql.git)
