@@ -9,3 +9,6 @@ The ESP32-CAM is a microcontroller module that combines Wi-Fi and Bluetooth conn
 
 - Datasset esp32-cam/assets/ESP32-CAM_Product_Specification.pdf
 - [Product Specification](https://github.com/albandes/IoT-PD-RPM/blob/main/esp32-cam/assets/ESP32-CAM_Product_Specification.pdf)
+- [IPUS IPS6404 datasheet](esp32-cam/assets/IPUS_IPS6404_Datasheet.pdf): external memory
+- [OV2640 datasheet](esp32-cam/assets/OV2640_Datasheet.pdf): included camera
+  - [OV2640 FSL package](esp32-cam//assets/OV2640FSL_Datasheet.pdf)
