@@ -8,4 +8,4 @@ This repository aims to centralize and organize information about the developed 
 The ESP32-CAM is a microcontroller module that combines Wi-Fi and Bluetooth connectivity with an integrated camera, widely used in Internet of Things (IoT) and computer vision projects. It is based on the ESP32 chip, which has sufficient processing power to run simple image algorithms, such as facial recognition and object detection, and allows image transmission over a network. Compact and low-cost, the ESP32-CAM is a popular choice for applications requiring real-time image capture and processing, such as remote monitoring, security, and automation.
 
 - Datasset esp32-cam/assets/ESP32-CAM_Product_Specification.pdf
-- [Datasset](https://github.com/albandes/IoT-PD-RPM/esp32-cam/assets/ESP32-CAM_Product_Specification.pdf)
+- [Product Specification](https://github.com/albandes/IoT-PD-RPM/esp32-cam/assets/ESP32-CAM_Product_Specification.pdf)
