@@ -17,5 +17,5 @@ The ESP32-CAM is a microcontroller module that combines Wi-Fi and Bluetooth conn
 
 ## Software
 ### Audit Class
-- PHP class used to record changes (Insert, Update and Delete) in the tables of a Mysql database in JSON format. Based on these data it is possible to audit the tables of a mysql database. 
-    - [GitHub Repository] (https://github.com/albandes/audit-mysql.git)
+The PHP class is designed to log changes (Insert, Update, and Delete operations) in MySQL database tables in JSON format. By recording these modifications, this class enables a comprehensive audit trail for tracking alterations made to the database. This approach facilitates accountability and transparency in database management, as it provides a structured, readable log of data changes that can be utilized for debugging, data recovery, and compliance with data integrity standards. Through the JSON format, the recorded data can be easily processed, transferred, or analyzed as needed in various auditing and reporting processes.
+- [GitHub Repository] (https://github.com/albandes/audit-mysql.git)
