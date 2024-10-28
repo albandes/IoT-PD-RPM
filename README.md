@@ -16,6 +16,6 @@ The ESP32-CAM is a microcontroller module that combines Wi-Fi and Bluetooth conn
 - [Wiring with usb ttl](esp32-cam/assets/Wiring-with-usb-ttl.png)
 
 ## Software
-
-- Class used to record changes (Insert, Update and Delete) in the tables of a Mysql database in JSON format. Based on these data it is possible to audit the tables of a mysql database. 
+### Audit Class
+- PHP class used to record changes (Insert, Update and Delete) in the tables of a Mysql database in JSON format. Based on these data it is possible to audit the tables of a mysql database. 
     - [GitHub Repository] (https://github.com/albandes/audit-mysql.git)
